@@ -1,3 +1,4 @@
+Фаюстов 25ПТв2
 Simple project for study makefiles
 =====================
 
