@@ -1,2 +1,5 @@
+*.o
 hello
-hello-dbg
+hello_d
+hello_dbg
+
